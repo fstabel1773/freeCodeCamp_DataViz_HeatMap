@@ -4,7 +4,7 @@ d3 heatmap visualization -- solo project from freeCodeCamp data visualization-co
 This repo contains the third data-visualization from fCC data-visualization-course.
 It is a simple heat-map built on my own from scratch using d3 according to user stories (see below). 
 
-Live demo available: 
+Live demo available: https://funny-fairy-8eb0bc.netlify.app.
 
 
 Note: There is a testscript from freeCodeCamp included confirming fullfilling of user stories.
